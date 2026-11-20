@@ -1,0 +1,7 @@
+{
+  "appId": "com.pessimist.callcenter",
+  "appName": "Кол-центр Смена",
+  "webDir": "www",
+  "backgroundColor": "#0e0a1c",
+  "android": { "backgroundColor": "#0e0a1c", "allowMixedContent": false }
+}
